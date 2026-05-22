@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Eclipse workspace metadata
+.metadata/
+
+# Compiled class files
+**/*.class
+**/bin/
+
+# Eclipse project files (optional — keep if you want IDE setup tracked)
+# .classpath
+# .project
+# .settings/
