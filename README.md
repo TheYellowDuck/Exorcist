@@ -2,6 +2,8 @@
 
 A 2D infinite climbing platformer built in Java (Swing). Jump between procedurally generated platforms, fight enemies with a responsive combat system, and climb as high as you can.
 
+[![Demo](thumbnail.jpg)](https://youtu.be/cbCoB_rXNRQ)
+
 ## Features
 
 - **Procedural generation** — platforms, hazards, and enemy placements are generated on the fly with increasing difficulty as you ascend
